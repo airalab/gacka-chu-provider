@@ -1,0 +1,22 @@
+{
+  "DEBUG": false,
+  "HOST": "127.0.0.1",
+  "PORT": "3011",
+  "MODEL": "QmWZsRae58t2jnVcHaUBYrWMdaM6vwvpSs264Cmg3MrwY6",
+  "IPFS": {
+    "host": "127.0.0.1"
+  },
+  "WEB3": "wss://mainnet.infura.io/ws/v3/PROJECT_ID",
+  "ROBONOMICS": {
+    "account": {
+      "address": "0x0"
+    },
+    "ens": {
+      "address": "",
+      "suffix": "eth",
+      "version": 5
+    },
+    "lighthouse": "airalab.lighthouse.5.robonomics.eth"
+  },
+  "TIMEOUT_LIABILITY_RESULT": 10
+}
